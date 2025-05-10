@@ -1,4 +1,4 @@
-# Hi, I'm Adi9822 👋
+# Hi, I'm Aditya Ghangare 👋
 
 Welcome to my GitHub profile! I'm a passionate Cloud & DevOps enthusiast with hands-on experience in creating CI/CD pipelines, containerization using Docker, and automating infrastructure deployments. I'm always learning and evolving in the world of cloud technologies and automation tools.
 
